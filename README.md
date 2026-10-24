@@ -1,7 +1,6 @@
 # Food Ordering System for Office using Cpp
 This food ordering system software is fully build using C++, which allows us to order the food in Office space. 
 
-<img width="2064" height="1189" alt="image" src="https://github.com/user-attachments/assets/d973fe20-5e5f-44c6-b7a4-a8ffff6237d3" />
 
 
 <img width="691" height="422" alt="loading" src="https://github.com/user-attachments/assets/b70df65c-42c8-4d22-9622-9ded3e808010" />
